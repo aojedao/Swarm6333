@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv_msgs/libaruco_opencv_msgs__rosidl_typesupport_fastrtps_c.so" "TARGETS" "aruco_opencv_msgs__rosidl_typesupport_fastrtps_c" "ARCHIVE_DESTINATION" "lib" "LIBRARY_DESTINATION" "lib" "RUNTIME_DESTINATION" "bin")

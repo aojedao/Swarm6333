@@ -1,0 +1,12 @@
+{
+  "package_name": "communication_interfaces",
+  "non_idl_tuples": [
+    "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ROS2swarm/src/communication_interfaces:msg/OpinionMessage.msg",
+    "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ROS2swarm/src/communication_interfaces:msg/OpinionMACMessage.msg",
+    "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ROS2swarm/src/communication_interfaces:msg/StringMessage.msg",
+    "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ROS2swarm/src/communication_interfaces:msg/DoubleMessage.msg",
+    "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ROS2swarm/src/communication_interfaces:msg/Int8Message.msg",
+    "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ROS2swarm/src/communication_interfaces:msg/IntListMessage.msg",
+    "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ROS2swarm/src/communication_interfaces:srv/ItemService.srv"
+  ]
+}

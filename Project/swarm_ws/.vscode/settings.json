@@ -1,0 +1,14 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/user/Documents/NYU/Swarm/Project/swarm_ws/install/choirbot_examples/lib/python3.8/site-packages",
+        "/home/user/Documents/NYU/Swarm/Project/swarm_ws/install/choirbot/lib/python3.8/site-packages",
+        "/home/user/Documents/NYU/Swarm/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/user/Documents/NYU/Swarm/Project/swarm_ws/install/choirbot_examples/lib/python3.8/site-packages",
+        "/home/user/Documents/NYU/Swarm/Project/swarm_ws/install/choirbot/lib/python3.8/site-packages",
+        "/home/user/Documents/NYU/Swarm/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages",
+        "/opt/ros/foxy/lib/python3.8/site-packages"
+    ]
+}

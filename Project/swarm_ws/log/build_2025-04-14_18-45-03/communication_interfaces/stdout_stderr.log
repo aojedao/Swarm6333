@@ -1,0 +1,328 @@
+-- The C compiler identification is GNU 9.4.0
+-- The CXX compiler identification is GNU 9.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)
+-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  
+-- Found FastRTPS: /opt/ros/foxy/include  
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") 
+-- Found ament_cmake_ros: 0.9.2 (/opt/ros/foxy/share/ament_cmake_ros/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3.5") 
+-- Found python_cmake_module: 0.8.1 (/opt/ros/foxy/share/python_cmake_module/cmake)
+-- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.8.so (found suitable version "3.8.10", minimum required is "3.5") 
+-- Using PYTHON_EXECUTABLE: /usr/bin/python3
+-- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.8
+-- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.8.so
+-- Found PythonExtra: .so  
+-- Found ament_lint_auto: 0.9.8 (/opt/ros/foxy/share/ament_lint_auto/cmake)
+-- Added test 'copyright' to check source files copyright and LICENSE
+-- Added test 'lint_cmake' to check CMake code style
+-- Added test 'xmllint' to check XML markup files
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces
+[35m[1mScanning dependencies of target communication_interfaces__cpp[0m
+[  1%] [34m[1mGenerating C code for ROS interfaces[0m
+[  2%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[  2%] Built target communication_interfaces__cpp
+[35m[1mScanning dependencies of target communication_interfaces__rosidl_generator_c[0m
+[  3%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[  6%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[  6%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[  7%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_generator_c.dir/rosidl_generator_c/communication_interfaces/msg/detail/opinion_message__functions.c.o[0m
+[  8%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_generator_c.dir/rosidl_generator_c/communication_interfaces/msg/detail/opinion_mac_message__functions.c.o[0m
+[ 10%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_generator_c.dir/rosidl_generator_c/communication_interfaces/msg/detail/string_message__functions.c.o[0m
+[ 11%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_generator_c.dir/rosidl_generator_c/communication_interfaces/msg/detail/int8_message__functions.c.o[0m
+[ 12%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_generator_c.dir/rosidl_generator_c/communication_interfaces/msg/detail/double_message__functions.c.o[0m
+[ 13%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_generator_c.dir/rosidl_generator_c/communication_interfaces/srv/detail/item_service__functions.c.o[0m
+[ 15%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_generator_c.dir/rosidl_generator_c/communication_interfaces/msg/detail/int_list_message__functions.c.o[0m
+[ 16%] [32m[1mLinking C shared library libcommunication_interfaces__rosidl_generator_c.so[0m
+[ 16%] Built target communication_interfaces__rosidl_generator_c
+[ 17%] [34m[1mGenerating C introspection for ROS interfaces[0m
+[ 18%] [34m[1mGenerating C type support dispatch for ROS interfaces[0m
+[35m[1mScanning dependencies of target communication_interfaces__rosidl_typesupport_cpp[0m
+[ 20%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/communication_interfaces/msg/opinion_message__type_support.cpp.o[0m
+[ 21%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/communication_interfaces/msg/opinion_mac_message__type_support.cpp.o[0m
+[ 22%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/communication_interfaces/msg/string_message__type_support.cpp.o[0m
+[ 24%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/communication_interfaces/msg/double_message__type_support.cpp.o[0m
+[35m[1mScanning dependencies of target communication_interfaces__rosidl_typesupport_fastrtps_cpp[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/communication_interfaces/msg/detail/dds_fastrtps/opinion_message__type_support.cpp.o[0m
+[35m[1mScanning dependencies of target communication_interfaces__rosidl_typesupport_introspection_cpp[0m
+[ 26%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/communication_interfaces/msg/detail/opinion_message__type_support.cpp.o[0m
+[35m[1mScanning dependencies of target communication_interfaces__rosidl_typesupport_c[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/communication_interfaces/msg/detail/dds_fastrtps/opinion_mac_message__type_support.cpp.o[0m
+[ 29%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/communication_interfaces/msg/int8_message__type_support.cpp.o[0m
+[ 30%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/communication_interfaces/msg/opinion_message__type_support.cpp.o[0m
+[ 31%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/communication_interfaces/msg/int_list_message__type_support.cpp.o[0m
+[ 32%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/communication_interfaces/srv/item_service__type_support.cpp.o[0m
+[35m[1mScanning dependencies of target communication_interfaces__rosidl_typesupport_introspection_c[0m
+[ 34%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/communication_interfaces/msg/opinion_mac_message__type_support.cpp.o[0m
+[ 35%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/communication_interfaces/msg/detail/opinion_message__type_support.c.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/communication_interfaces/msg/detail/opinion_mac_message__type_support.cpp.o[0m
+[ 37%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/communication_interfaces/msg/string_message__type_support.cpp.o[0m
+[ 39%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/communication_interfaces/msg/detail/opinion_mac_message__type_support.c.o[0m
+[ 40%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/communication_interfaces/msg/double_message__type_support.cpp.o[0m
+[ 41%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/communication_interfaces/msg/int8_message__type_support.cpp.o[0m
+[ 43%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/communication_interfaces/msg/detail/string_message__type_support.c.o[0m
+[ 44%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/communication_interfaces/msg/int_list_message__type_support.cpp.o[0m
+[ 45%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/communication_interfaces/msg/detail/double_message__type_support.c.o[0m
+[ 46%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_c.dir/rosidl_typesupport_c/communication_interfaces/srv/item_service__type_support.cpp.o[0m
+[ 48%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/communication_interfaces/msg/detail/string_message__type_support.cpp.o[0m
+[ 49%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/communication_interfaces/msg/detail/dds_fastrtps/string_message__type_support.cpp.o[0m
+[ 50%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/communication_interfaces/msg/detail/int8_message__type_support.c.o[0m
+[ 51%] [32m[1mLinking CXX shared library libcommunication_interfaces__rosidl_typesupport_c.so[0m
+[ 53%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/communication_interfaces/msg/detail/int_list_message__type_support.c.o[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/communication_interfaces/msg/detail/dds_fastrtps/double_message__type_support.cpp.o[0m
+[ 55%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_c.dir/rosidl_typesupport_introspection_c/communication_interfaces/srv/detail/item_service__type_support.c.o[0m
+[ 55%] Built target communication_interfaces__rosidl_typesupport_c
+[ 56%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/communication_interfaces/msg/detail/dds_fastrtps/int_list_message__type_support.cpp.o[0m
+[ 58%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/communication_interfaces/msg/detail/dds_fastrtps/int8_message__type_support.cpp.o[0m
+[ 59%] [32m[1mLinking C shared library libcommunication_interfaces__rosidl_typesupport_introspection_c.so[0m
+[ 60%] [32m[1mLinking CXX shared library libcommunication_interfaces__rosidl_typesupport_cpp.so[0m
+[ 60%] Built target communication_interfaces__rosidl_typesupport_introspection_c
+[ 62%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/communication_interfaces/srv/detail/dds_fastrtps/item_service__type_support.cpp.o[0m
+[ 62%] Built target communication_interfaces__rosidl_typesupport_cpp
+[ 63%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/communication_interfaces/msg/detail/double_message__type_support.cpp.o[0m
+[ 64%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/communication_interfaces/msg/detail/int8_message__type_support.cpp.o[0m
+[ 65%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/communication_interfaces/msg/detail/int_list_message__type_support.cpp.o[0m
+[ 67%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/communication_interfaces/srv/detail/item_service__type_support.cpp.o[0m
+[ 68%] [32m[1mLinking CXX shared library libcommunication_interfaces__rosidl_typesupport_introspection_cpp.so[0m
+[ 69%] [32m[1mLinking CXX shared library libcommunication_interfaces__rosidl_typesupport_fastrtps_cpp.so[0m
+[ 69%] Built target communication_interfaces__rosidl_typesupport_introspection_cpp
+[ 69%] Built target communication_interfaces__rosidl_typesupport_fastrtps_cpp
+[ 70%] [34m[1mGenerating C type support for eProsima Fast-RTPS[0m
+[35m[1mScanning dependencies of target communication_interfaces__rosidl_typesupport_fastrtps_c[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/communication_interfaces/msg/detail/string_message__type_support_c.cpp.o[0m
+[ 73%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/communication_interfaces/msg/detail/opinion_mac_message__type_support_c.cpp.o[0m
+[ 75%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/communication_interfaces/msg/detail/opinion_message__type_support_c.cpp.o[0m
+[ 74%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/communication_interfaces/msg/detail/double_message__type_support_c.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/communication_interfaces/msg/detail/int8_message__type_support_c.cpp.o[0m
+[ 78%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/communication_interfaces/srv/detail/item_service__type_support_c.cpp.o[0m
+[ 79%] [32mBuilding CXX object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_c.dir/rosidl_typesupport_fastrtps_c/communication_interfaces/msg/detail/int_list_message__type_support_c.cpp.o[0m
+[ 81%] [32m[1mLinking CXX shared library libcommunication_interfaces__rosidl_typesupport_fastrtps_c.so[0m
+[ 81%] Built target communication_interfaces__rosidl_typesupport_fastrtps_c
+[35m[1mScanning dependencies of target communication_interfaces[0m
+[ 81%] Built target communication_interfaces
+[35m[1mScanning dependencies of target communication_interfaces__py[0m
+[ 82%] [34m[1mGenerating Python code for ROS interfaces[0m
+[ 82%] Built target communication_interfaces__py
+[35m[1mScanning dependencies of target communication_interfaces__python[0m
+[ 84%] [32mBuilding C object CMakeFiles/communication_interfaces__python.dir/rosidl_generator_py/communication_interfaces/msg/_opinion_message_s.c.o[0m
+[ 84%] [32mBuilding C object CMakeFiles/communication_interfaces__python.dir/rosidl_generator_py/communication_interfaces/msg/_opinion_mac_message_s.c.o[0m
+[ 86%] [32mBuilding C object CMakeFiles/communication_interfaces__python.dir/rosidl_generator_py/communication_interfaces/msg/_double_message_s.c.o[0m
+[ 87%] [32mBuilding C object CMakeFiles/communication_interfaces__python.dir/rosidl_generator_py/communication_interfaces/msg/_string_message_s.c.o[0m
+[ 88%] [32mBuilding C object CMakeFiles/communication_interfaces__python.dir/rosidl_generator_py/communication_interfaces/msg/_int8_message_s.c.o[0m
+[ 89%] [32mBuilding C object CMakeFiles/communication_interfaces__python.dir/rosidl_generator_py/communication_interfaces/msg/_int_list_message_s.c.o[0m
+[ 91%] [32mBuilding C object CMakeFiles/communication_interfaces__python.dir/rosidl_generator_py/communication_interfaces/srv/_item_service_s.c.o[0m
+[ 92%] [32m[1mLinking C shared library rosidl_generator_py/communication_interfaces/libcommunication_interfaces__python.so[0m
+[ 92%] Built target communication_interfaces__python
+[35m[1mScanning dependencies of target communication_interfaces__rosidl_typesupport_introspection_c__pyext[0m
+[35m[1mScanning dependencies of target communication_interfaces__rosidl_typesupport_c__pyext[0m
+[35m[1mScanning dependencies of target communication_interfaces__rosidl_typesupport_fastrtps_c__pyext[0m
+[ 93%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_typesupport_introspection_c__pyext.dir/rosidl_generator_py/communication_interfaces/_communication_interfaces_s.ep.rosidl_typesupport_introspection_c.c.o[0m
+[ 94%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_typesupport_c__pyext.dir/rosidl_generator_py/communication_interfaces/_communication_interfaces_s.ep.rosidl_typesupport_c.c.o[0m
+[ 96%] [32mBuilding C object CMakeFiles/communication_interfaces__rosidl_typesupport_fastrtps_c__pyext.dir/rosidl_generator_py/communication_interfaces/_communication_interfaces_s.ep.rosidl_typesupport_fastrtps_c.c.o[0m
+[ 97%] [32m[1mLinking C shared library rosidl_generator_py/communication_interfaces/communication_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so[0m
+[ 98%] [32m[1mLinking C shared library rosidl_generator_py/communication_interfaces/communication_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so[0m
+[ 98%] Built target communication_interfaces__rosidl_typesupport_introspection_c__pyext
+[100%] [32m[1mLinking CXX shared library rosidl_generator_py/communication_interfaces/communication_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so[0m
+[100%] Built target communication_interfaces__rosidl_typesupport_c__pyext
+[100%] Built target communication_interfaces__rosidl_typesupport_fastrtps_c__pyext
+-- Install configuration: ""
+-- Execute custom install script
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/ament_index/resource_index/rosidl_interfaces/communication_interfaces
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__functions.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__struct.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__type_support.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__functions.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__struct.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__type_support.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__functions.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__struct.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__type_support.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__functions.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__struct.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__type_support.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__functions.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__struct.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__type_support.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__functions.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__struct.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__type_support.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/double_message.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/int8_message.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/int_list_message.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/opinion_mac_message.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/opinion_message.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/rosidl_generator_c__visibility_control.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/string_message.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__functions.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__struct.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__type_support.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/item_service.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/library_path.sh
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/library_path.dsv
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__rosidl_typesupport_fastrtps_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_fastrtps_c.so
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__rosidl_typesupport_fastrtps_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_fastrtps_cpp.so
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__rosidl_typesupport_introspection_c.h
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__builder.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__struct.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__traits.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__type_support.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__builder.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__struct.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__traits.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__type_support.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__builder.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__struct.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__traits.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__type_support.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__builder.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__struct.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__traits.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__type_support.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__builder.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__struct.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__traits.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__type_support.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__builder.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__struct.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__traits.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__type_support.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/double_message.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/int8_message.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/int_list_message.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/opinion_mac_message.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/opinion_message.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/string_message.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__builder.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__struct.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__traits.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__type_support.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/item_service.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__rosidl_typesupport_introspection_cpp.hpp
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/pythonpath.sh
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/pythonpath.dsv
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/__init__.py
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/__init__.py
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_double_message.py
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_int8_message.py
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_int_list_message.py
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_opinion_mac_message.py
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_opinion_message.py
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_string_message.py
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/srv/__init__.py
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/srv/_item_service.py
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/communication_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/communication_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/communication_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__python.so
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/OpinionMessage.idl
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/OpinionMACMessage.idl
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/StringMessage.idl
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/DoubleMessage.idl
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/Int8Message.idl
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/IntListMessage.idl
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/srv/ItemService.idl
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/OpinionMessage.msg
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/OpinionMACMessage.msg
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/StringMessage.msg
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/DoubleMessage.msg
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/Int8Message.msg
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/IntListMessage.msg
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/srv/ItemService.srv
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/srv/ItemService_Request.msg
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/srv/ItemService_Response.msg
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/ament_index/resource_index/package_run_dependencies/communication_interfaces
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/ament_index/resource_index/parent_prefix_path/communication_interfaces
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/ament_prefix_path.sh
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/ament_prefix_path.dsv
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/path.sh
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/path.dsv
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/local_setup.bash
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/local_setup.sh
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/local_setup.zsh
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/local_setup.dsv
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/package.dsv
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/ament_index/resource_index/packages/communication_interfaces
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/rosidl_cmake-extras.cmake
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfacesConfig.cmake
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfacesConfig-version.cmake
+-- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/package.xml
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_generator_c.so
+-- Set runtime path of "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_generator_c.so" to ""
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_introspection_c.so
+-- Set runtime path of "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_introspection_c.so" to ""
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_c.so
+-- Set runtime path of "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_c.so" to ""
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_introspection_cpp.so
+-- Set runtime path of "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_introspection_cpp.so" to ""
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_cpp.so
+-- Set runtime path of "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_cpp.so" to ""
+Compiling '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/__init__.py'...
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_generator_cExport.cmake
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_generator_cExport-noconfig.cmake
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_introspection_cExport.cmake
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_cExport.cmake
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_generator_cppExport.cmake
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_cppExport.cmake
+-- Installing: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_cppExport-noconfig.cmake

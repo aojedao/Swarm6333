@@ -1,0 +1,3 @@
+[console_scripts]
+add_bot_node = launch_turtlebot_gazebo.add_bot_node:main
+

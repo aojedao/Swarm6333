@@ -1,0 +1,30 @@
+[1.365s] Invoking command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco': PYTHONPATH=/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/build --no-deps symlink_data
+[1.678s] running develop
+[1.898s] running egg_info
+[1.898s] creating ros2_aruco.egg-info
+[1.899s] writing ros2_aruco.egg-info/PKG-INFO
+[1.899s] writing dependency_links to ros2_aruco.egg-info/dependency_links.txt
+[1.899s] writing entry points to ros2_aruco.egg-info/entry_points.txt
+[1.899s] writing requirements to ros2_aruco.egg-info/requires.txt
+[1.899s] writing top-level names to ros2_aruco.egg-info/top_level.txt
+[1.901s] writing manifest file 'ros2_aruco.egg-info/SOURCES.txt'
+[1.953s] reading manifest file 'ros2_aruco.egg-info/SOURCES.txt'
+[1.954s] writing manifest file 'ros2_aruco.egg-info/SOURCES.txt'
+[2.014s] running build_ext
+[2.015s] Creating /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/lib/python3.8/site-packages/site.py
+[2.020s] Creating /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/lib/python3.8/site-packages/ros2-aruco.egg-link (link to .)
+[2.022s] Installing aruco_generate_marker script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/lib/ros2_aruco
+[2.029s] Installing aruco_node script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/lib/ros2_aruco
+[2.030s] 
+[2.030s] Installed /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco
+[2.030s] running symlink_data
+[2.030s] creating /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/share/ament_index
+[2.030s] creating /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/share/ament_index/resource_index
+[2.030s] creating /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/share/ament_index/resource_index/packages
+[2.030s] symbolically linking /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/resource/ros2_aruco -> /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/share/ament_index/resource_index/packages
+[2.030s] symbolically linking /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/package.xml -> /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/share/ros2_aruco
+[2.031s] creating /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/share/ros2_aruco/launch
+[2.031s] symbolically linking /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/launch/aruco_recognition.launch.py -> /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/share/ros2_aruco/launch
+[2.031s] creating /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/share/ros2_aruco/config
+[2.031s] symbolically linking /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/config/aruco_parameters.yaml -> /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/share/ros2_aruco/config
+[2.077s] Invoked command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco' returned '0': PYTHONPATH=/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/build --no-deps symlink_data

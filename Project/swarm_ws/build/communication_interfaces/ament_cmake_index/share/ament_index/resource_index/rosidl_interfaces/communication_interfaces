@@ -1,0 +1,16 @@
+msg/DoubleMessage.idl
+msg/DoubleMessage.msg
+msg/Int8Message.idl
+msg/Int8Message.msg
+msg/IntListMessage.idl
+msg/IntListMessage.msg
+msg/OpinionMACMessage.idl
+msg/OpinionMACMessage.msg
+msg/OpinionMessage.idl
+msg/OpinionMessage.msg
+msg/StringMessage.idl
+msg/StringMessage.msg
+srv/ItemService.idl
+srv/ItemService.srv
+srv/ItemService_Request.msg
+srv/ItemService_Response.msg

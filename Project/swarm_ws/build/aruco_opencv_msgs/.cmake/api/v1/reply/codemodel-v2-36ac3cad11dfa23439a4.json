@@ -1,0 +1,213 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"hasInstallRule" : true,
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				},
+				{
+					"build" : "aruco_opencv_msgs__py",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv_msgs/aruco_opencv_msgs__py",
+					"targetIndexes" : 
+					[
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "aruco_opencv_msgs",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs-e720ba7edf9c392f7739.json",
+					"name" : "aruco_opencv_msgs",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__cpp-265c17b8a349d23fe1cd.json",
+					"name" : "aruco_opencv_msgs__cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "aruco_opencv_msgs__py::@9e37e6836c1f5e92d842",
+					"jsonFile" : "target-aruco_opencv_msgs__py-4d38c520b27c77303c26.json",
+					"name" : "aruco_opencv_msgs__py",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__python::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__python-492a860957521b8a83ba.json",
+					"name" : "aruco_opencv_msgs__python",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__rosidl_generator_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__rosidl_generator_c-22553253f3401be9bfa5.json",
+					"name" : "aruco_opencv_msgs__rosidl_generator_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__rosidl_typesupport_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__rosidl_typesupport_c-00087d31a4d4029c9e2a.json",
+					"name" : "aruco_opencv_msgs__rosidl_typesupport_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__rosidl_typesupport_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__rosidl_typesupport_c__pyext-1f898d534a027be72496.json",
+					"name" : "aruco_opencv_msgs__rosidl_typesupport_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__rosidl_typesupport_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__rosidl_typesupport_cpp-e12ab13c3992e31378b4.json",
+					"name" : "aruco_opencv_msgs__rosidl_typesupport_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__rosidl_typesupport_fastrtps_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__rosidl_typesupport_fastrtps_c-0574bebd52bf4898206d.json",
+					"name" : "aruco_opencv_msgs__rosidl_typesupport_fastrtps_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__rosidl_typesupport_fastrtps_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__rosidl_typesupport_fastrtps_c__pyext-ec2cf00bb9e1188944b7.json",
+					"name" : "aruco_opencv_msgs__rosidl_typesupport_fastrtps_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__rosidl_typesupport_fastrtps_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__rosidl_typesupport_fastrtps_cpp-5ecbb91ed5bcbb10e09a.json",
+					"name" : "aruco_opencv_msgs__rosidl_typesupport_fastrtps_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__rosidl_typesupport_introspection_c::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__rosidl_typesupport_introspection_c-3eae4c1a3b59a3ab92c7.json",
+					"name" : "aruco_opencv_msgs__rosidl_typesupport_introspection_c",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__rosidl_typesupport_introspection_c__pyext::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__rosidl_typesupport_introspection_c__pyext-7502daab4dfad280325e.json",
+					"name" : "aruco_opencv_msgs__rosidl_typesupport_introspection_c__pyext",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs__rosidl_typesupport_introspection_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs__rosidl_typesupport_introspection_cpp-d276629a41263c382031.json",
+					"name" : "aruco_opencv_msgs__rosidl_typesupport_introspection_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "aruco_opencv_msgs_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aruco_opencv_msgs_uninstall-1006d625904e996a1c94.json",
+					"name" : "aruco_opencv_msgs_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-870919293fd5f5777512.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv_msgs",
+		"source" : "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ros_aruco_opencv/aruco_opencv_msgs"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 0
+	}
+}

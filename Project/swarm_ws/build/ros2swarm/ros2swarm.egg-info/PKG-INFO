@@ -1,0 +1,13 @@
+Metadata-Version: 1.2
+Name: ros2swarm
+Version: 1.0.0
+Summary: Contains swarm behaviour pattern implementations. These could be launched individually or get combined by redirecting their output topic streams.All patterns have param files to adjust their behaviour.Movement: Basic: drive, dispersion, attraction, aggregation, magnetometer, minimalist flockingCombined: discussed dispersionVoting: Basic: voter model, voter model with wifi dBm limiter, majority rule
+Home-page: UNKNOWN
+Author: Marian Begemann
+Author-email: marian.begemann(at)student.uni-luebeck.de
+Maintainer: Tanja Kaiser
+Maintainer-email: kaiser(at)iti.uni-luebeck.de
+License: apache-2.0
+Description: UNKNOWN
+Keywords: ros2 swarm pattern robot behaviour dispersion aggregation attraction magnetometer flocking voter model
+Platform: UNKNOWN

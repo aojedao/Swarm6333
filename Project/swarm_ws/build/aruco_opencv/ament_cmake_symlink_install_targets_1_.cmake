@@ -1,0 +1,1 @@
+ament_cmake_symlink_install_targets("TARGET_FILES" "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/aruco_tracker_autostart" "TARGETS" "aruco_tracker_autostart" "DESTINATION" "lib/aruco_opencv")

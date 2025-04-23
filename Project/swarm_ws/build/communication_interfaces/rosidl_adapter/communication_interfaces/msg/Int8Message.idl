@@ -1,0 +1,12 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from communication_interfaces/msg/Int8Message.msg
+// generated code does not contain a copyright notice
+
+
+module communication_interfaces {
+  module msg {
+    struct Int8Message {
+      int8 data;
+    };
+  };
+};

@@ -1,0 +1,12 @@
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/edit_cache.dir
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/test.dir
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/install/strip.dir
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/aruco_tracker_autostart.dir
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/aruco_tracker.dir
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/install/local.dir
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/aruco_opencv.dir
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/install.dir
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/list_install_components.dir
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/rebuild_cache.dir
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/aruco_opencv_uninstall.dir
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv/CMakeFiles/uninstall.dir

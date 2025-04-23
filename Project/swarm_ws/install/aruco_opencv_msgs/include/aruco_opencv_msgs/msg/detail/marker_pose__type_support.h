@@ -1,0 +1,1 @@
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/aruco_opencv_msgs/rosidl_generator_c/aruco_opencv_msgs/msg/detail/marker_pose__type_support.h

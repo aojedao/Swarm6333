@@ -1,0 +1,1 @@
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces/rosidl_typesupport_fastrtps_c/communication_interfaces/srv/detail/item_service__rosidl_typesupport_fastrtps_c.h

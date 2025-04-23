@@ -1,0 +1,5 @@
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces/rosidl_adapter/choirbot_interfaces:action/PositionAction.idl
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces/rosidl_adapter/choirbot_interfaces:msg/PositionTask.idl
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces/rosidl_adapter/choirbot_interfaces:msg/PositionTaskArray.idl
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces/rosidl_adapter/choirbot_interfaces:srv/PositionTaskService.idl
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces/rosidl_adapter/choirbot_interfaces:srv/TaskCompletionService.idl
