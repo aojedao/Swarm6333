@@ -23,6 +23,7 @@ source install/setup.bash
 
 To run: ros2 launch choirbot_examples taskassignment.launch.py
 
+To edit with bot: turtlebot3_position_control_feedback.py file
 
 --------------------------
 
