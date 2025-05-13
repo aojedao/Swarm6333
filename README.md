@@ -4,11 +4,11 @@
 
 ## About the Project
 
-This repository contains all the assignments and projects completed for the **Advanced Mechatronics (ROB-GY 6103)** course at NYU. The work was done collaboratively by **Team 3**, consisting of:
+This repository contains all the assignments and projects completed for the **Advanced Mechatronics (ROB-GY 6103)** course at NYU. The work was done collaboratively by our team, consisting of:
 - **[Santiago Bernheim](https://github.com/santiagob)**
 - **[Nishant Pushparaju](https://github.com/Nishant-ZFYII)**
 - **[Alejandro Ojeda Olarte](https://github.com/aojedao)**
-- **[Vivekanada Swamy](https://github.com/VivekanadaSwamy)**
+- **[Vivekanada Swamy](https://github.com/vivekmattam02)**
 
 ## Contents
 
