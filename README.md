@@ -8,7 +8,7 @@ This repository contains all the assignments and projects completed for the **Ad
 - **[Santiago Bernheim](https://github.com/santiagob)**
 - **[Nishant Pushparaju](https://github.com/Nishant-ZFYII)**
 - **[Alejandro Ojeda Olarte](https://github.com/aojedao)**
-- **[Vivekanada Swamy](https://github.com/vivekmattam02)**
+- **[Vivekananda Swamy Mattam](https://github.com/vivekmattam02)**
 
 ## Contents
 
