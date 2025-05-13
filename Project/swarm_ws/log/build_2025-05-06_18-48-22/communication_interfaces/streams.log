@@ -1,0 +1,191 @@
+[0.365s] Invoking command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces -- -j8 -l8
+[1.159s] [  1%] Built target communication_interfaces__cpp
+[1.159s] [ 12%] Built target communication_interfaces__rosidl_generator_c
+[1.159s] [ 24%] Built target communication_interfaces__rosidl_typesupport_cpp
+[1.159s] [ 35%] Built target communication_interfaces__rosidl_typesupport_introspection_cpp
+[1.159s] [ 46%] Built target communication_interfaces__rosidl_typesupport_fastrtps_cpp
+[1.159s] [ 58%] Built target communication_interfaces__rosidl_typesupport_introspection_c
+[1.159s] [ 69%] Built target communication_interfaces__rosidl_typesupport_c
+[1.159s] [ 81%] Built target communication_interfaces__rosidl_typesupport_fastrtps_c
+[1.159s] [ 81%] Built target communication_interfaces
+[1.160s] [ 82%] Built target communication_interfaces__py
+[1.160s] [ 92%] Built target communication_interfaces__python
+[1.160s] [ 94%] Built target communication_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[1.160s] [ 97%] Built target communication_interfaces__rosidl_typesupport_introspection_c__pyext
+[1.160s] [100%] Built target communication_interfaces__rosidl_typesupport_c__pyext
+[1.173s] Invoked command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces -- -j8 -l8
+[1.176s] Invoking command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces
+[1.199s] -- Install configuration: ""
+[1.200s] -- Execute custom install script
+[1.200s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/ament_index/resource_index/rosidl_interfaces/communication_interfaces
+[1.200s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__functions.h
+[1.201s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__struct.h
+[1.201s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__type_support.h
+[1.201s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__functions.h
+[1.201s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__struct.h
+[1.201s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__type_support.h
+[1.201s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__functions.h
+[1.201s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__struct.h
+[1.202s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__type_support.h
+[1.202s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__functions.h
+[1.202s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__struct.h
+[1.202s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__type_support.h
+[1.202s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__functions.h
+[1.203s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__struct.h
+[1.203s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__type_support.h
+[1.203s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__functions.h
+[1.203s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__struct.h
+[1.204s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__type_support.h
+[1.204s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/double_message.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/int8_message.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/int_list_message.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/opinion_mac_message.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/opinion_message.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/rosidl_generator_c__visibility_control.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/string_message.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__functions.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__struct.h
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__type_support.h
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/item_service.h
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/library_path.sh
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/library_path.dsv
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__rosidl_typesupport_fastrtps_c.h
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__rosidl_typesupport_fastrtps_c.h
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__rosidl_typesupport_fastrtps_c.h
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__rosidl_typesupport_fastrtps_c.h
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__rosidl_typesupport_fastrtps_c.h
+[1.211s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__rosidl_typesupport_fastrtps_c.h
+[1.211s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.211s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__rosidl_typesupport_fastrtps_c.h
+[1.211s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_fastrtps_c.so
+[1.213s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__rosidl_typesupport_fastrtps_cpp.hpp
+[1.213s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__rosidl_typesupport_fastrtps_cpp.hpp
+[1.213s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__rosidl_typesupport_fastrtps_cpp.hpp
+[1.214s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__rosidl_typesupport_fastrtps_cpp.hpp
+[1.214s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__rosidl_typesupport_fastrtps_cpp.hpp
+[1.214s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__rosidl_typesupport_fastrtps_cpp.hpp
+[1.215s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.216s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__rosidl_typesupport_fastrtps_cpp.hpp
+[1.216s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[1.222s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__rosidl_typesupport_introspection_c.h
+[1.222s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__rosidl_typesupport_introspection_c.h
+[1.223s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__rosidl_typesupport_introspection_c.h
+[1.223s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__rosidl_typesupport_introspection_c.h
+[1.223s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__rosidl_typesupport_introspection_c.h
+[1.223s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__rosidl_typesupport_introspection_c.h
+[1.224s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.224s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__rosidl_typesupport_introspection_c.h
+[1.224s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__builder.hpp
+[1.224s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__struct.hpp
+[1.224s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__traits.hpp
+[1.224s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__type_support.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__builder.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__struct.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__traits.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__type_support.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__builder.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__struct.hpp
+[1.226s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__traits.hpp
+[1.228s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__type_support.hpp
+[1.228s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__builder.hpp
+[1.228s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__struct.hpp
+[1.228s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__traits.hpp
+[1.228s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__type_support.hpp
+[1.228s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__builder.hpp
+[1.228s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__struct.hpp
+[1.228s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__traits.hpp
+[1.228s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__type_support.hpp
+[1.228s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__builder.hpp
+[1.229s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__struct.hpp
+[1.229s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__traits.hpp
+[1.229s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__type_support.hpp
+[1.229s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/double_message.hpp
+[1.229s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/int8_message.hpp
+[1.229s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/int_list_message.hpp
+[1.229s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/opinion_mac_message.hpp
+[1.229s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/opinion_message.hpp
+[1.229s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.229s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/string_message.hpp
+[1.230s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__builder.hpp
+[1.230s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__struct.hpp
+[1.230s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__traits.hpp
+[1.230s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__type_support.hpp
+[1.230s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/item_service.hpp
+[1.230s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/double_message__rosidl_typesupport_introspection_cpp.hpp
+[1.230s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int8_message__rosidl_typesupport_introspection_cpp.hpp
+[1.230s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/int_list_message__rosidl_typesupport_introspection_cpp.hpp
+[1.230s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_mac_message__rosidl_typesupport_introspection_cpp.hpp
+[1.230s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/opinion_message__rosidl_typesupport_introspection_cpp.hpp
+[1.231s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/msg/detail/string_message__rosidl_typesupport_introspection_cpp.hpp
+[1.231s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/include/communication_interfaces/srv/detail/item_service__rosidl_typesupport_introspection_cpp.hpp
+[1.231s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/pythonpath.sh
+[1.231s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/pythonpath.dsv
+[1.231s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/__init__.py
+[1.231s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/__init__.py
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_double_message.py
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_int8_message.py
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_int_list_message.py
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_opinion_mac_message.py
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_opinion_message.py
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/msg/_string_message.py
+[1.233s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/srv/__init__.py
+[1.233s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/srv/_item_service.py
+[1.233s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/communication_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[1.233s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/communication_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[1.234s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/python3.8/site-packages/communication_interfaces/communication_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[1.234s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__python.so
+[1.234s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/OpinionMessage.idl
+[1.241s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/OpinionMACMessage.idl
+[1.241s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/StringMessage.idl
+[1.241s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/DoubleMessage.idl
+[1.242s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/Int8Message.idl
+[1.242s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/IntListMessage.idl
+[1.243s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/srv/ItemService.idl
+[1.243s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/OpinionMessage.msg
+[1.243s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/OpinionMACMessage.msg
+[1.243s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/StringMessage.msg
+[1.243s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/DoubleMessage.msg
+[1.243s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/Int8Message.msg
+[1.243s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/msg/IntListMessage.msg
+[1.243s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/srv/ItemService.srv
+[1.243s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/srv/ItemService_Request.msg
+[1.244s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/srv/ItemService_Response.msg
+[1.244s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/ament_index/resource_index/package_run_dependencies/communication_interfaces
+[1.244s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/ament_index/resource_index/parent_prefix_path/communication_interfaces
+[1.244s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/ament_prefix_path.sh
+[1.244s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/ament_prefix_path.dsv
+[1.250s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/path.sh
+[1.251s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/environment/path.dsv
+[1.251s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/local_setup.bash
+[1.251s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/local_setup.sh
+[1.252s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/local_setup.zsh
+[1.252s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/local_setup.dsv
+[1.254s] -- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/package.dsv
+[1.255s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/ament_index/resource_index/packages/communication_interfaces
+[1.255s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/rosidl_cmake-extras.cmake
+[1.255s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.256s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[1.256s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[1.256s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.256s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.256s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.256s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfacesConfig.cmake
+[1.256s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfacesConfig-version.cmake
+[1.256s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/package.xml
+[1.256s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_generator_c.so
+[1.257s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_introspection_c.so
+[1.257s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_c.so
+[1.257s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_introspection_cpp.so
+[1.257s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/lib/libcommunication_interfaces__rosidl_typesupport_cpp.so
+[1.299s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_generator_cExport.cmake
+[1.299s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_generator_cExport-noconfig.cmake
+[1.299s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[1.299s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.300s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_cExport.cmake
+[1.300s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[1.300s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_generator_cppExport.cmake
+[1.300s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[1.301s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.301s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_cppExport.cmake
+[1.301s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/communication_interfaces/share/communication_interfaces/cmake/communication_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[1.369s] Invoked command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces

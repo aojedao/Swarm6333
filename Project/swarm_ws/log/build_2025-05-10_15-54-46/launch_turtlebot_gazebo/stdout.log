@@ -1,0 +1,15 @@
+running develop
+running egg_info
+writing launch_turtlebot_gazebo.egg-info/PKG-INFO
+writing dependency_links to launch_turtlebot_gazebo.egg-info/dependency_links.txt
+writing entry points to launch_turtlebot_gazebo.egg-info/entry_points.txt
+writing requirements to launch_turtlebot_gazebo.egg-info/requires.txt
+writing top-level names to launch_turtlebot_gazebo.egg-info/top_level.txt
+reading manifest file 'launch_turtlebot_gazebo.egg-info/SOURCES.txt'
+writing manifest file 'launch_turtlebot_gazebo.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/launch_turtlebot_gazebo/lib/python3.8/site-packages/launch-turtlebot-gazebo.egg-link (link to .)
+Installing add_bot_node script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/launch_turtlebot_gazebo/lib/launch_turtlebot_gazebo
+
+Installed /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/launch_turtlebot_gazebo
+running symlink_data

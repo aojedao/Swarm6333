@@ -415,9 +415,6 @@ ament_cmake_symlink_install_files("/home/user/Documents/NYU/Swarm/Swarm6333/Proj
 # install(FILES "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces/rosidl_cmake/srv/TaskCompletionService_Response.msg" "DESTINATION" "share/choirbot_interfaces/srv")
 ament_cmake_symlink_install_files("/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ChoiRbot/choirbot_interfaces" FILES "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces/rosidl_cmake/srv/TaskCompletionService_Response.msg" "DESTINATION" "share/choirbot_interfaces/srv")
 
-# install(DIRECTORY "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ChoiRbot/choirbot_interfaces/choirbot_interfaces/" "DESTINATION" "lib/python3.8/site-packages/choirbot_interfaces" "PATTERN_EXCLUDE" "*.pyc" "PATTERN_EXCLUDE" "__pycache__")
-ament_cmake_symlink_install_directory("/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ChoiRbot/choirbot_interfaces" DIRECTORY "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ChoiRbot/choirbot_interfaces/choirbot_interfaces/" "DESTINATION" "lib/python3.8/site-packages/choirbot_interfaces" "PATTERN_EXCLUDE" "*.pyc" "PATTERN_EXCLUDE" "__pycache__")
-
 # install(FILES "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/choirbot_interfaces" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 ament_cmake_symlink_install_files("/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ChoiRbot/choirbot_interfaces" FILES "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces/ament_cmake_index/share/ament_index/resource_index/package_run_dependencies/choirbot_interfaces" "DESTINATION" "share/ament_index/resource_index/package_run_dependencies")
 

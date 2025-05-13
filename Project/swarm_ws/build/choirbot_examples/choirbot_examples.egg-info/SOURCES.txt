@@ -42,6 +42,8 @@ launch/gazebo.launch.py
 launch/mpc.launch.py
 launch/quadrotorbearingformationcontrol.launch.py
 launch/taskassignment.launch.py
+launch/taskassignment_advmec.launch.py
+launch/testing_advmec.launch.py
 resource/choirbot_examples
 resource/model_burger.sdf
 resource/rvizconf.rviz

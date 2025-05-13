@@ -1,0 +1,18 @@
+[1.766s] Invoking command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/build --no-deps symlink_data
+[2.170s] running develop
+[2.418s] running egg_info
+[2.419s] writing ros2_aruco.egg-info/PKG-INFO
+[2.419s] writing dependency_links to ros2_aruco.egg-info/dependency_links.txt
+[2.419s] writing entry points to ros2_aruco.egg-info/entry_points.txt
+[2.420s] writing requirements to ros2_aruco.egg-info/requires.txt
+[2.420s] writing top-level names to ros2_aruco.egg-info/top_level.txt
+[2.469s] reading manifest file 'ros2_aruco.egg-info/SOURCES.txt'
+[2.470s] writing manifest file 'ros2_aruco.egg-info/SOURCES.txt'
+[2.505s] running build_ext
+[2.505s] Creating /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/lib/python3.8/site-packages/ros2-aruco.egg-link (link to .)
+[2.506s] Installing aruco_generate_marker script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/lib/ros2_aruco
+[2.506s] Installing aruco_node script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/lib/ros2_aruco
+[2.506s] 
+[2.506s] Installed /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco
+[2.506s] running symlink_data
+[2.546s] Invoked command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2_aruco/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco/build --no-deps symlink_data

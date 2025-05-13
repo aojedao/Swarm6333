@@ -1,0 +1,33 @@
+[1.800s] Invoking command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2swarm': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2swarm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2swarm/build --no-deps symlink_data
+[2.203s] running develop
+[2.382s] running egg_info
+[2.383s] writing ros2swarm.egg-info/PKG-INFO
+[2.383s] writing dependency_links to ros2swarm.egg-info/dependency_links.txt
+[2.383s] writing entry points to ros2swarm.egg-info/entry_points.txt
+[2.383s] writing requirements to ros2swarm.egg-info/requires.txt
+[2.383s] writing top-level names to ros2swarm.egg-info/top_level.txt
+[2.413s] reading manifest file 'ros2swarm.egg-info/SOURCES.txt'
+[2.415s] writing manifest file 'ros2swarm.egg-info/SOURCES.txt'
+[2.445s] running build_ext
+[2.445s] Creating /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/python3.8/site-packages/ros2swarm.egg-link (link to .)
+[2.446s] Installing aggregation_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.446s] Installing attraction_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.446s] Installing attraction_pattern2 script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.446s] Installing discussed_dispersion_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.446s] Installing dispersion_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.447s] Installing drive_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.447s] Installing hardware_protection_layer script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.447s] Installing items_master_node script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.447s] Installing magnetometer_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.447s] Installing majority_rule_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.447s] Installing minimalist_flocking_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.447s] Installing move_to_target_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.447s] Installing random_walk_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.447s] Installing rat_search_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.447s] Installing task_allocation_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.448s] Installing voter_model_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.448s] Installing voter_model_with_limiter_pattern script to /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/ros2swarm
+[2.448s] 
+[2.448s] Installed /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2swarm
+[2.448s] running symlink_data
+[2.484s] Invoked command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2swarm' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2swarm/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/ros2swarm/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2swarm/build --no-deps symlink_data
