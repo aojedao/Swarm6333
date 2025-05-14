@@ -1,0 +1,1 @@
+/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ros_aruco_opencv/aruco_opencv_msgs/msg/MarkerPose.msg

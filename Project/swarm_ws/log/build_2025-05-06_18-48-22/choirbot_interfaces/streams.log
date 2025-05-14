@@ -1,0 +1,167 @@
+[0.055s] Invoking command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces -- -j8 -l8
+[1.174s] [  1%] Built target choirbot_interfaces__cpp
+[1.175s] [ 12%] Built target choirbot_interfaces__rosidl_generator_c
+[1.175s] [ 23%] Built target choirbot_interfaces__rosidl_typesupport_cpp
+[1.175s] [ 34%] Built target choirbot_interfaces__rosidl_typesupport_fastrtps_cpp
+[1.176s] [ 46%] Built target choirbot_interfaces__rosidl_typesupport_introspection_cpp
+[1.176s] [ 58%] Built target choirbot_interfaces__rosidl_typesupport_introspection_c
+[1.176s] [ 68%] Built target choirbot_interfaces__rosidl_typesupport_c
+[1.176s] [ 79%] Built target choirbot_interfaces__rosidl_typesupport_fastrtps_c
+[1.177s] [ 79%] Built target choirbot_interfaces
+[1.178s] [ 80%] Built target choirbot_interfaces__py
+[1.178s] [ 90%] Built target choirbot_interfaces__python
+[1.178s] [ 93%] Built target choirbot_interfaces__rosidl_typesupport_fastrtps_c__pyext
+[1.178s] [ 96%] Built target choirbot_interfaces__rosidl_typesupport_c__pyext
+[1.178s] [100%] Built target choirbot_interfaces__rosidl_typesupport_introspection_c__pyext
+[1.182s] Invoked command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --build /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces -- -j8 -l8
+[1.188s] Invoking command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces
+[1.205s] -- Install configuration: ""
+[1.206s] -- Execute custom install script
+[1.206s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/ament_index/resource_index/rosidl_interfaces/choirbot_interfaces
+[1.207s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/detail/position_action__functions.h
+[1.207s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/detail/position_action__struct.h
+[1.208s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/detail/position_action__type_support.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/position_action.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task__functions.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task__struct.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task__type_support.h
+[1.209s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task_array__functions.h
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task_array__struct.h
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task_array__type_support.h
+[1.210s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/position_task.h
+[1.211s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/position_task_array.h
+[1.212s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/rosidl_generator_c__visibility_control.h
+[1.213s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/position_task_service__functions.h
+[1.214s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/position_task_service__struct.h
+[1.215s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/position_task_service__type_support.h
+[1.215s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/task_completion_service__functions.h
+[1.216s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/task_completion_service__struct.h
+[1.216s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/task_completion_service__type_support.h
+[1.216s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/position_task_service.h
+[1.216s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/task_completion_service.h
+[1.216s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/environment/library_path.sh
+[1.216s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/environment/library_path.dsv
+[1.217s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/detail/position_action__rosidl_typesupport_fastrtps_c.h
+[1.217s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task__rosidl_typesupport_fastrtps_c.h
+[1.217s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task_array__rosidl_typesupport_fastrtps_c.h
+[1.219s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.219s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/position_task_service__rosidl_typesupport_fastrtps_c.h
+[1.219s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/task_completion_service__rosidl_typesupport_fastrtps_c.h
+[1.219s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/libchoirbot_interfaces__rosidl_typesupport_fastrtps_c.so
+[1.220s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/detail/position_action__rosidl_typesupport_fastrtps_cpp.hpp
+[1.220s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task__rosidl_typesupport_fastrtps_cpp.hpp
+[1.221s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task_array__rosidl_typesupport_fastrtps_cpp.hpp
+[1.221s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.221s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/position_task_service__rosidl_typesupport_fastrtps_cpp.hpp
+[1.222s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/task_completion_service__rosidl_typesupport_fastrtps_cpp.hpp
+[1.223s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/libchoirbot_interfaces__rosidl_typesupport_fastrtps_cpp.so
+[1.223s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/detail/position_action__rosidl_typesupport_introspection_c.h
+[1.223s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task__rosidl_typesupport_introspection_c.h
+[1.223s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task_array__rosidl_typesupport_introspection_c.h
+[1.224s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.224s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/position_task_service__rosidl_typesupport_introspection_c.h
+[1.224s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/task_completion_service__rosidl_typesupport_introspection_c.h
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/detail/position_action__builder.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/detail/position_action__struct.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/detail/position_action__traits.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/detail/position_action__type_support.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/position_action.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task__builder.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task__struct.hpp
+[1.225s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task__traits.hpp
+[1.227s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task__type_support.hpp
+[1.227s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task_array__builder.hpp
+[1.227s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task_array__struct.hpp
+[1.228s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task_array__traits.hpp
+[1.229s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task_array__type_support.hpp
+[1.231s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/position_task.hpp
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/position_task_array.hpp
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/position_task_service__builder.hpp
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/position_task_service__struct.hpp
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/position_task_service__traits.hpp
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/position_task_service__type_support.hpp
+[1.232s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/task_completion_service__builder.hpp
+[1.233s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/task_completion_service__struct.hpp
+[1.233s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/task_completion_service__traits.hpp
+[1.233s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/task_completion_service__type_support.hpp
+[1.234s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/position_task_service.hpp
+[1.234s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/task_completion_service.hpp
+[1.236s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/action/detail/position_action__rosidl_typesupport_introspection_cpp.hpp
+[1.236s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task__rosidl_typesupport_introspection_cpp.hpp
+[1.237s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/msg/detail/position_task_array__rosidl_typesupport_introspection_cpp.hpp
+[1.237s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/position_task_service__rosidl_typesupport_introspection_cpp.hpp
+[1.238s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/include/choirbot_interfaces/srv/detail/task_completion_service__rosidl_typesupport_introspection_cpp.hpp
+[1.240s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/environment/pythonpath.sh
+[1.242s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/environment/pythonpath.dsv
+[1.243s] -- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/__init__.py
+[1.251s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/action/__init__.py
+[1.251s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/action/_position_action.py
+[1.252s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/msg/__init__.py
+[1.252s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/msg/_position_task.py
+[1.252s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/msg/_position_task_array.py
+[1.253s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/srv/__init__.py
+[1.253s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/srv/_position_task_service.py
+[1.253s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/srv/_task_completion_service.py
+[1.253s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/choirbot_interfaces_s__rosidl_typesupport_fastrtps_c.cpython-38-x86_64-linux-gnu.so
+[1.254s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/choirbot_interfaces_s__rosidl_typesupport_introspection_c.cpython-38-x86_64-linux-gnu.so
+[1.254s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/choirbot_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so
+[1.260s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/libchoirbot_interfaces__python.so
+[1.260s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/action/PositionAction.idl
+[1.260s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/msg/PositionTask.idl
+[1.260s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/msg/PositionTaskArray.idl
+[1.261s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/srv/PositionTaskService.idl
+[1.261s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/srv/TaskCompletionService.idl
+[1.262s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/action/PositionAction.action
+[1.262s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/msg/PositionTask.msg
+[1.262s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/msg/PositionTaskArray.msg
+[1.275s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/srv/PositionTaskService.srv
+[1.275s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/srv/PositionTaskService_Request.msg
+[1.275s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/srv/PositionTaskService_Response.msg
+[1.275s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/srv/TaskCompletionService.srv
+[1.275s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/srv/TaskCompletionService_Request.msg
+[1.275s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/srv/TaskCompletionService_Response.msg
+[1.275s] -- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/__init__.py
+[1.277s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/ament_index/resource_index/package_run_dependencies/choirbot_interfaces
+[1.277s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/ament_index/resource_index/parent_prefix_path/choirbot_interfaces
+[1.277s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/environment/ament_prefix_path.sh
+[1.278s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/environment/ament_prefix_path.dsv
+[1.278s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/environment/path.sh
+[1.278s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/environment/path.dsv
+[1.278s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/local_setup.bash
+[1.278s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/local_setup.sh
+[1.278s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/local_setup.zsh
+[1.278s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/local_setup.dsv
+[1.279s] -- Symlinking: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/package.dsv
+[1.294s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/ament_index/resource_index/packages/choirbot_interfaces
+[1.294s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/rosidl_cmake-extras.cmake
+[1.295s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.295s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/ament_cmake_export_libraries-extras.cmake
+[1.296s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/ament_cmake_export_targets-extras.cmake
+[1.296s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.297s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.298s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.299s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfacesConfig.cmake
+[1.299s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfacesConfig-version.cmake
+[1.299s] -- Up-to-date symlink: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/package.xml
+[1.300s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/libchoirbot_interfaces__rosidl_generator_c.so
+[1.300s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/libchoirbot_interfaces__rosidl_typesupport_introspection_c.so
+[1.301s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/libchoirbot_interfaces__rosidl_typesupport_c.so
+[1.301s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/libchoirbot_interfaces__rosidl_typesupport_introspection_cpp.so
+[1.301s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/libchoirbot_interfaces__rosidl_typesupport_cpp.so
+[1.420s] Listing '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces'...
+[1.420s] Listing '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/action'...
+[1.421s] Listing '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/msg'...
+[1.421s] Listing '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/lib/python3.8/site-packages/choirbot_interfaces/srv'...
+[1.426s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfaces__rosidl_generator_cExport.cmake
+[1.426s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfaces__rosidl_generator_cExport-noconfig.cmake
+[1.426s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfaces__rosidl_typesupport_introspection_cExport.cmake
+[1.426s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfaces__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.426s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfaces__rosidl_typesupport_cExport.cmake
+[1.426s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfaces__rosidl_typesupport_cExport-noconfig.cmake
+[1.427s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfaces__rosidl_generator_cppExport.cmake
+[1.427s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfaces__rosidl_typesupport_introspection_cppExport.cmake
+[1.427s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfaces__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.427s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfaces__rosidl_typesupport_cppExport.cmake
+[1.427s] -- Up-to-date: /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/install/choirbot_interfaces/share/choirbot_interfaces/cmake/choirbot_interfaces__rosidl_typesupport_cppExport-noconfig.cmake
+[1.440s] Invoked command in '/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces' returned '0': CMAKE_PREFIX_PATH=/opt/ros/foxy CONDA_PROMPT_MODIFIER=(base) /usr/bin/cmake --install /home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces

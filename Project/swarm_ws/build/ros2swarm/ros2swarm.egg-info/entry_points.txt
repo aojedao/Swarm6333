@@ -1,0 +1,19 @@
+[console_scripts]
+aggregation_pattern = ros2swarm.movement_pattern.basic.aggregation_pattern:main
+attraction_pattern = ros2swarm.movement_pattern.basic.attraction_pattern:main
+attraction_pattern2 = ros2swarm.movement_pattern.basic.attraction_pattern2:main
+discussed_dispersion_pattern = ros2swarm.movement_pattern.combined.discussed_dispersion_pattern:main
+dispersion_pattern = ros2swarm.movement_pattern.basic.dispersion_pattern:main
+drive_pattern = ros2swarm.movement_pattern.basic.drive_pattern:main
+hardware_protection_layer = ros2swarm.hardware_protection_layer:main
+items_master_node = ros2swarm.misc_nodes.items_master:main
+magnetometer_pattern = ros2swarm.movement_pattern.basic.magnetometer_pattern:main
+majority_rule_pattern = ros2swarm.voting_pattern.basic.majority_rule_pattern:main
+minimalist_flocking_pattern = ros2swarm.movement_pattern.basic.minimalist_flocking_pattern:main
+move_to_target_pattern = ros2swarm.movement_pattern.basic.move_to_target_pattern:main
+random_walk_pattern = ros2swarm.movement_pattern.basic.random_walk_pattern:main
+rat_search_pattern = ros2swarm.movement_pattern.basic.rat_search_pattern:main
+task_allocation_pattern = ros2swarm.movement_pattern.combined.task_allocation_pattern:main
+voter_model_pattern = ros2swarm.voting_pattern.basic.voter_model_pattern:main
+voter_model_with_limiter_pattern = ros2swarm.voting_pattern.basic.voter_model_with_limiter_pattern:main
+
