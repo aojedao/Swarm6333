@@ -1,1 +1,0 @@
-/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2swarm/launch/pattern/voting_pattern/basic/majority_rule_pattern.launch.py

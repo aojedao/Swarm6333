@@ -1,1 +1,0 @@
-/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces/rosidl_typesupport_introspection_c/communication_interfaces/msg/detail/opinion_mac_message__rosidl_typesupport_introspection_c.h

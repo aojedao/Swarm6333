@@ -1,1 +1,0 @@
-/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/communication_interfaces/rosidl_generator_cpp/communication_interfaces/srv/detail/item_service__struct.hpp

@@ -1,1 +1,0 @@
-/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/src/ROS2swarm/src/ros2swarm/launch/pattern/movement_pattern/basic/attraction_pattern2.launch.py

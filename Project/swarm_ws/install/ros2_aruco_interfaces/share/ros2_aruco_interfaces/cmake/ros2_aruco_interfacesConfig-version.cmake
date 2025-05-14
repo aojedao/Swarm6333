@@ -1,1 +1,0 @@
-/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/ros2_aruco_interfaces/ament_cmake_core/ros2_aruco_interfacesConfig-version.cmake

@@ -1,1 +1,0 @@
-ament_cmake_symlink_install_targets("TARGET_FILES" "/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/choirbot_interfaces/rosidl_generator_py/choirbot_interfaces/choirbot_interfaces_s__rosidl_typesupport_c.cpython-38-x86_64-linux-gnu.so" "TARGETS" "choirbot_interfaces__rosidl_typesupport_c__pyext" "DESTINATION" "lib/python3.8/site-packages/choirbot_interfaces")

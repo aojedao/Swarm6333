@@ -1,1 +1,0 @@
-/home/user/Documents/NYU/Swarm/Swarm6333/Project/swarm_ws/build/geometry_tutorials/ament_cmake_core/geometry_tutorialsConfig-version.cmake
